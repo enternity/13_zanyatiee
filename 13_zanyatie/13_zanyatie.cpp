@@ -196,7 +196,7 @@ void zadanie_b() {
 }
 
 
-// Проверка задания c
+// задание с и его проверка
 void zadanie_c() {
     cout << endl << "ZADANIE C" << endl;
 
